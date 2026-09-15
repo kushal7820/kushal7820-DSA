@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kushal7820/kushal7820-DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
