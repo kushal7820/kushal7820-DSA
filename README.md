@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/kushal7820/kushal7820-DSA/tree/master/0682-baseball-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
