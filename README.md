@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/kushal7820/kushal7820-DSA/tree/master/0231-power-of-two) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
