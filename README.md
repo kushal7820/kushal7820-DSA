@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kushal7820/kushal7820-DSA/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushal7820/kushal7820-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -84,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kushal7820/kushal7820-DSA/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0633-sum-of-square-numbers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
