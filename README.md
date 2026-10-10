@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kushal7820/kushal7820-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kushal7820/kushal7820-DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/kushal7820/kushal7820-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kushal7820/kushal7820-DSA/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushal7820/kushal7820-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kushal7820/kushal7820-DSA/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/kushal7820/kushal7820-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kushal7820/kushal7820-DSA/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kushal7820/kushal7820-DSA/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/kushal7820/kushal7820-DSA/tree/master/2706-buy-two-chocolates) |
 ## Counting
