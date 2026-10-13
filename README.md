@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kushal7820/kushal7820-DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushal7820/kushal7820-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/kushal7820/kushal7820-DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kushal7820/kushal7820-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
