@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/kushal7820/kushal7820-DSA/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/kushal7820/kushal7820-DSA/tree/master/0875-koko-eating-bananas) |
+| [0922-sort-array-by-parity-ii](https://github.com/kushal7820/kushal7820-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2706-buy-two-chocolates](https://github.com/kushal7820/kushal7820-DSA/tree/master/2706-buy-two-chocolates) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kushal7820/kushal7820-DSA/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/kushal7820/kushal7820-DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kushal7820/kushal7820-DSA/tree/master/0242-valid-anagram) |
+| [0922-sort-array-by-parity-ii](https://github.com/kushal7820/kushal7820-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/kushal7820/kushal7820-DSA/tree/master/2706-buy-two-chocolates) |
 ## Counting
