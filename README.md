@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/kushal7820/kushal7820-DSA/tree/master/0041-first-missing-positive) |
+| [0064-minimum-path-sum](https://github.com/kushal7820/kushal7820-DSA/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kushal7820/kushal7820-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
@@ -177,9 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kushal7820/kushal7820-DSA/tree/master/0064-minimum-path-sum) |
 | [0509-fibonacci-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/kushal7820/kushal7820-DSA/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
