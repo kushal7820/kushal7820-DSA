@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/kushal7820/kushal7820-DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/kushal7820/kushal7820-DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushal7820/kushal7820-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/kushal7820/kushal7820-DSA/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
