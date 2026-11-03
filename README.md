@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0682-baseball-game](https://github.com/kushal7820/kushal7820-DSA/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/kushal7820/kushal7820-DSA/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/kushal7820/kushal7820-DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kushal7820/kushal7820-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kushal7820/kushal7820-DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kushal7820/kushal7820-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kushal7820/kushal7820-DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/kushal7820/kushal7820-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/kushal7820/kushal7820-DSA/tree/master/2706-buy-two-chocolates) |
