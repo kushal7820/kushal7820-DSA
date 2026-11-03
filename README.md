@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kushal7820/kushal7820-DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/kushal7820/kushal7820-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kushal7820/kushal7820-DSA/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/kushal7820/kushal7820-DSA/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushal7820/kushal7820-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kushal7820/kushal7820-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kushal7820/kushal7820-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kushal7820/kushal7820-DSA/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/kushal7820/kushal7820-DSA/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/kushal7820/kushal7820-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/kushal7820/kushal7820-DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
